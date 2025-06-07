@@ -33,3 +33,16 @@ A smart stock forecasting app that combines **machine learning**, **real-time ma
 - **APIs**: Financial Modeling Prep (Stock + News)
 - **ML Models**: FinBERT + LSTM
 - **HTTP**: OkHttp for mobile-backend communication
+
+- ---
+
+## 💡 Future Plans
+
+- Add user login and personalization
+- Expand ML model to include more indicators
+- Deploy backend to cloud for live access
+
+---
+
+> Built for learning, innovation, and showcasing full-stack mobile AI integration.
+
